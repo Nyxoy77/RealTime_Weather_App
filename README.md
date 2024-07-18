@@ -1,16 +1,24 @@
-# weather_app
+# RealTime Weather App
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+The RealTime Weather App is a feature-rich application designed to fetch and display real-time weather data from the OpenWeather API. It provides users with current weather conditions and future forecasts, making it a handy tool for anyone needing up-to-date weather information.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+### Current Weather Conditions
+- **Current Temperature**: Displays the current temperature of the selected location.
+- **Humidity**: Shows the current humidity level.
+- **Wind Speed**: Provides information on the current wind speed.
+- **Pressure**: Displays the atmospheric pressure.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Future Weather Forecast
+- **3-Hour Interval Forecast**: Shows weather conditions in 3-hour intervals for the next 24 hours.
+  
+## Additional Features (Ideas)
+- **Location Search**: Allow users to search for weather conditions in different cities.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+- **OpenWeather API**: For fetching weather data.
+- **Flutter**: Cross-platform framework for building the app.
+  
