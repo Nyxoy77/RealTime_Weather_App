@@ -24,5 +24,5 @@ The RealTime Weather App is a feature-rich application designed to fetch and dis
 - **Dart**: Programming language
 
 ## Screenshots
-(assests/images/screenshot.jpg)
+[](assests/images/screenshot.jpg)
   
