@@ -21,4 +21,8 @@ The RealTime Weather App is a feature-rich application designed to fetch and dis
 ## Technologies Used
 - **OpenWeather API**: For fetching weather data.
 - **Flutter**: Cross-platform framework for building the app.
+- **Dart**: Programming language
+
+## Screenshots
+(assests/images/screenshot.jpg)
   
